@@ -1,2 +1,1 @@
-# st2195_assignment_2
-st2195_assignment_2
+This repository contains the solution for the ST2195 assignment 2, for which we use both Python and R to scrap the csv example on cars in the Wkipedia page and solve the resulting output in the local folder
